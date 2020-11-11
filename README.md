@@ -1,4 +1,4 @@
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/gxrglsokfncivgpu4f1e.png)
+
 # xp stands for Xtra Power Tools
 The aim of this respository is to provide 'tools' with xtra-power. 
 1. xp.css:
@@ -40,3 +40,4 @@ Join development of xp.css. Pull Request Welcome :)
 
 #Licence
 MIT . You are free to use xp.css in personal and commercial projects
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/gxrglsokfncivgpu4f1e.png)
