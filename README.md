@@ -30,3 +30,9 @@ Just download and link it or
 link it by github link: https://raw.githubusercontent.com/Manishfoodtechs/xp/main/xp.css
 
 Here is demo on codepen:
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="manishfoodtechs" data-slug-hash="JjKexar" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="xp.css">
+  <span>See the Pen <a href="https://codepen.io/manishfoodtechs/pen/JjKexar">
+  xp.css</a> by manish (<a href="https://codepen.io/manishfoodtechs">@manishfoodtechs</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
